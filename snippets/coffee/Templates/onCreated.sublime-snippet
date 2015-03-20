@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+onCreated ->
+	${1:# ...}
+]]></content>
+	<tabTrigger>onCreated</tabTrigger>
+	<scope>source.coffee, source.litcoffee</scope>
+	<description>Meteor: Template.myTemplate.onCreated(function)</description>
+</snippet>

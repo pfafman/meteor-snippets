@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+onDestroyed ->
+	${1:# ...}
+]]></content>
+	<tabTrigger>onDestroyed</tabTrigger>
+	<scope>source.coffee, source.litcoffee</scope>
+	<description>Meteor: Template.myTemplate.onDestroyed(function)</description>
+</snippet>

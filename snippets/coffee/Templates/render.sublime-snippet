@@ -1,9 +1,9 @@
 <snippet>
 	<content><![CDATA[
-Meteor.render ($1) ->
-	${2:# ...}
+Meteor.render ->
+	${1:# ...}
 ]]></content>
-	<tabTrigger>Meteor.render</tabTrigger>
+	<tabTrigger>Meteor.onRender</tabTrigger>
 	<scope>source.coffee, source.litcoffee</scope>
-	<description>Meteor.render(htmlFunc)</description>
+	<description>Meteor.onRender(function)</description>
 </snippet>
