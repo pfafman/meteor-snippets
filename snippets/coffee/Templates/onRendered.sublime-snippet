@@ -1,7 +1,7 @@
 <snippet>
 	<content><![CDATA[
 onRendered ->
-	${2:# ...}
+	${1:# ...}
 ]]></content>
 	<tabTrigger>onRendered</tabTrigger>
 	<scope>source.coffee, source.litcoffee</scope>
