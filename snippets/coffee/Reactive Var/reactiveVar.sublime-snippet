@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+ReactiveVar ${1:initialValue}${2:, [${3:equalsFunc}]}
+]]></content>
+  <tabTrigger>ReactiveVar</tabTrigger>
+  <scope>source.coffee, source.litcoffee</scope>
+  <description>ReactiveVar(initialValue, [equalsFunc])</description>
+</snippet>
