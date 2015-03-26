@@ -2,7 +2,7 @@
 	<content><![CDATA[
 HTTP.call ${1:method}, ${2:url}${3:, ${4:options}}${5:, ${6:asyncCallback}}
 ]]></content>
-	<tabTrigger>HTTP</tabTrigger>
+	<tabTrigger>HTTP.call</tabTrigger>
 	<scope>source.coffee, source.litcoffee</scope>
 	<description>HTTP.call(method, url [, options] [, asyncCallback])</description>
 </snippet>

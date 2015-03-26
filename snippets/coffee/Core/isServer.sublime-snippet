@@ -1,8 +1,6 @@
 <snippet>
 	<content><![CDATA[
-if(Meteor.isServer){
-
-}
+Meteor.isServer
 ]]></content>
 	<tabTrigger>Meteor.isServer</tabTrigger>
 	<scope>source.coffee, source.litcoffee</scope>
