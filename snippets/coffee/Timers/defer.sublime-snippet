@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[
+Meteor.defer ->
+  ${1}
+]]></content>
+  <tabTrigger>Meteor.defer</tabTrigger>
+  <scope>source.coffee, source.litcoffee</scope>
+  <description>Meteor.defer(function)</description>
+</snippet>
