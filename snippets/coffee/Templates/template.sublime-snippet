@@ -1,0 +1,27 @@
+<snippet>
+  <content><![CDATA[
+Template.${1}.onCreated ->
+  ${2:# ...}
+
+
+Template.${1}.onRendered ->
+  ${3:# ...}
+
+
+Template.${1}.onDestroyed ->
+  ${4:# ...}
+
+
+Template.${1}.helpers
+  ${5:foo}: ($6) ->
+    ${7:# ...}
+
+
+Template.${1}.events
+  '${8:click}': (event, tmpl) ->
+    ${9:# ...}
+]]></content>
+  <tabTrigger>Template</tabTrigger>
+  <scope>source.coffee, source.litcoffee</scope>
+  <description>Meteor: Template</description>
+</snippet>
