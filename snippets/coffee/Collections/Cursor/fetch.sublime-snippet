@@ -4,5 +4,5 @@ fetch()
 ]]></content>
 	<tabTrigger>fetch</tabTrigger>
 	<scope>source.coffee, source.litcoffee</scope>
-	<description>Meteor: cursor.fetch()</description>
+	<description>Mongo: cursor.fetch()</description>
 </snippet>

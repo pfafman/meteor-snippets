@@ -5,5 +5,5 @@ map (${1:post}) ->
 ]]></content>
 	<tabTrigger>map</tabTrigger>
 	<scope>source.coffee, source.litcoffee</scope>
-	<description>Meteor: cursor.map(callback)</description>
+	<description>Mongo: cursor.map(callback)</description>
 </snippet>

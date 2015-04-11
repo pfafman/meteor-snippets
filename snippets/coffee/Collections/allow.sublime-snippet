@@ -14,5 +14,5 @@ allow
 ]]></content>
 	<tabTrigger>allow</tabTrigger>
 	<scope>source.coffee, source.litcoffee</scope>
-	<description>Meteor: collection.allow(options)</description>
+	<description>Mongo: collection.allow(options)</description>
 </snippet>

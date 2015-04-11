@@ -1,8 +1,11 @@
 <snippet>
 	<content><![CDATA[
-insert(${1:doc}${2:, ${3:callback}})
+insert
+  ${1:doc}
+${2:, 
+  ${3:callback}}
 ]]></content>
 	<tabTrigger>insert</tabTrigger>
 	<scope>source.coffee, source.litcoffee</scope>
-	<description>Meteor: collection.insert(doc, [callback])</description>
+	<description>Mongo: collection.insert(doc, [callback])</description>
 </snippet>

@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+Template.instance()
+]]></content>
+  <tabTrigger>Template.instance</tabTrigger>
+  <scope>source.coffee, source.litcoffee</scope>
+  <description>Meteor: Template.instance()</description>
+</snippet>

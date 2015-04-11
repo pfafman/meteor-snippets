@@ -26,5 +26,5 @@ observe ${1:${2:
 ]]></content>
 	<tabTrigger>observe</tabTrigger>
 	<scope>source.coffee, source.litcoffee</scope>
-	<description>Meteor: cursor.observe(callbacks)</description>
+	<description>Mongo: cursor.observe(callbacks)</description>
 </snippet>
