@@ -1,7 +1,7 @@
 <snippet>
 	<content><![CDATA[
-Meteor.startup ($1) ->
-	${2:# ...}
+Meteor.startup ->
+	${1:# ...}
 ]]></content>
 	<tabTrigger>Meteor.startup</tabTrigger>
 	<scope>source.coffee, source.litcoffee</scope>

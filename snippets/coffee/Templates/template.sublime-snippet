@@ -1,5 +1,8 @@
 <snippet>
   <content><![CDATA[
+
+DEBUG = true
+
 Template.${1}.onCreated ->
   ${2:# ...}
 
@@ -13,13 +16,13 @@ Template.${1}.onDestroyed ->
 
 
 Template.${1}.helpers
-  ${5:foo}: ($6) ->
-    ${7:# ...}
+  ${5:foo}: ->
+    ${6:# ...}
 
 
 Template.${1}.events
-  '${8:click}': (event, tmpl) ->
-    ${9:# ...}
+  '${7:click}': (event, tmpl) ->
+    ${8:# ...}
 ]]></content>
   <tabTrigger>Template</tabTrigger>
   <scope>source.coffee, source.litcoffee</scope>

@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+Meteor.isCordova
+]]></content>
+  <tabTrigger>Meteor.isCordova</tabTrigger>
+  <scope>source.coffee, source.litcoffee</scope>
+  <description>Meteor.isCordova</description>
+</snippet>
