@@ -1,3 +1,6 @@
+v0.9.6
+* Updated Snippets for Meteor v1.1 changed repo
+
 v0.9.5
 * Updated Snippets for Meteor v1.0.4
 
